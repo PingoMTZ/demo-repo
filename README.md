@@ -1,2 +1,2 @@
 # Demo
-Kind of learning things.
+Kind of learning things. ._.
